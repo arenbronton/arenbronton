@@ -1,4 +1,4 @@
-<h1>Aren Bronton</h1>
+<h1>Torque Lewith</h1>
 <h3>Frontend Developer</h3>
 
 Languages: C++  JS  Java
