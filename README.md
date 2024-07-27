@@ -1,7 +1,8 @@
 <h1>Aren Bronton</h1>
-<h3>Frontend Developer</h3>
+<h3>Fullstack Web Developer</h3>
+<h3>USA</h3>
 
-- __Languages__: C++  JS  Java
+- __Languages__: C++  JS  Java  Rust  Go
 - __Fontend__: React.js
 - __Backend__: Node.js
 - __Contact__: bront.aren@gmail.com
